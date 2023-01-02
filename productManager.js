@@ -24,7 +24,7 @@ class ProductManager {
         let list = this.readFile()
         const checkInCart = list.find(p => p.code === product.code)
         if(!product.title || !product.description || !product.price || !product.thumbnail || !product.code || !product.stock) {
-            throw new Error('Debe completar todos los campos')
+            throw new Error('Debe completar   todos los campos')
         } else if(checkInCart) {
             console.log("Error, verifique la informacion")
         } else {
