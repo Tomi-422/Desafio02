@@ -1,25 +1,19 @@
 {
-  "name": "fs_sinc",
+  "name": "package",
   "version": "1.0.0",
-  "description": "Proyecto Backend Coderhouse",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasKatz/BackendProject.git"
+    "url": "git+https://github.com/Tomi-422/Desafio02.git"
   },
-  "keywords": [
-    "#Backend",
-    "-",
-    "Desafio",
-    "2"
-  ],
-  "author": "Lucas Katz",
+  "author": "Tomas Formica",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasKatz/BackendProject/issues"
+    "url": "https://github.com/Tomi-422/Desafio02/issues"
   },
-  "homepage": "https://github.com/LucasKatz/BackendProject#readme"
+  "homepage": "https://github.com/Tomi-422/Desafio02#readme"
 }
